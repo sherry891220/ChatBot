@@ -10,7 +10,7 @@
 * 用途：將想要顯示的內容顯示在OLED上。
 ## 語音對話
 * Function：
-   * process()、 askForService():語音轉文字
-   * process_res()、askForService_res():文字轉語音
-   * main()、record():錄音
-* 用途：裝置進行對話，讓裝置辨識user的問題並回覆。
+   * process()、 askForService()：語音轉文字
+   * process_res()、askForService_res()：文字轉語音
+   * main()、record()：錄音
+* 用途：與裝置進行對話，讓裝置辨識user的問題並回覆。
